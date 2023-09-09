@@ -198,8 +198,8 @@ a:hover {
 #about-img {
 	height: 450px;
 	border-radius: 4px;
-	border-top: 20px solid #DBBDA6;
-	box-shadow: 12px 12px 1px #966C4C;
+	border-top: 20px solid #C9A9A6;
+	box-shadow: 12px 12px 1px #A95C68;
 	overflow-y:hidden;
 	margin: 40px;
 	margin-top: 20px;
@@ -210,7 +210,7 @@ a:hover {
 }
 
 #about-section {
-	background-color: #F0F0F0;
+	background-color: #fcf7fb;
 	padding: 50px;
 	min-height:100vh;
 }
@@ -225,10 +225,10 @@ a:hover {
 	width: 550px;
 	font-size: 90%;
 	font-family: Monaco,monospace;
-	border-top: 20px solid #DBBDA6;
+	border-top: 20px solid #C9A9A6;
 	border-radius: 4px;
-	background-color: #2a2d34;
-	box-shadow: 12px 12px 1px #966C4C;
+	background-color: #000000;
+	box-shadow: 12px 12px 1px #A95C68;
 }
 
 #console a {
@@ -241,26 +241,26 @@ ul {
 }
 
 .first-color {
-	color: #ac78c2;
+	color: #C21E56;
 }
 .second-color {
-	color: #c5c8c6;
+	color: #da7b9a;
 }
 
 .third-color {
-	color: #5888ca;
+	color: #c298a6;
 }
 
 .fourth-color {
-	color: #f0c674;
+	color: #d3064b;
 }
 
 .fifth-color {
-	color: #b5bd68;
+	color: #ffc9db;
 }
 
 .sixth-color{
-	color: rgb(134, 255, 140);
+	color: rgb(134, 136, 171);
 }
 
 
@@ -274,7 +274,7 @@ ul {
 	padding:50px;
 	padding-bottom: 80px;
 	min-height:100vh;
-	background-color: #C29A7B;
+	background-color: #f7c3bf;
 }
 
 /* #text {
@@ -292,7 +292,7 @@ ul {
 } */
 
 #education-section * {
-	color:white;
+	color:rgb(0, 0, 0);
 }
 
 #education-title img {
@@ -343,7 +343,7 @@ ul {
 	border: none;
 	outline: none;
 	padding: 12px 16px;
-	background-color: #f1f1f1;
+	background-color: #9c6969;
 	cursor: pointer;
 	border-radius: 4px;
 	margin: 4px;
@@ -435,7 +435,7 @@ ul {
 #footer {
 	height: 6em;
 	text-align: center;
-	background-color: #F0F0F0;
+	background-color: #d4a0a0;
 }
 
 #social-container * {
