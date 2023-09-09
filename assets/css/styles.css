@@ -351,12 +351,12 @@ ul {
 }
 
 .filter-button:hover {
-	background-color: #ddd;
+	background-color: #edd0d0;
 }
 
 .filter-button.active {
 	background-color: #474d5a;
-	color: white;
+	color: rgb(220, 180, 180);
 }
 
 .each-project {
@@ -385,8 +385,7 @@ ul {
 	left: 0;
 	right: 0;
 	background: #F8F8F8;
-	color: #fff;
-	visibility: hidden;
+	color: #ad5656;
 	opacity: 0;
 	display: flex;
 	align-items: center;
@@ -394,12 +393,12 @@ ul {
 	transition: opacity .4s, visibility .4s;
 }
 
-.each-project:hover .proj-description {
+.each-project .proj-description {
 	visibility: visible;
 	opacity: 0.9;
 }
 
-.proj-description:hover {
+.proj-description {
 	opacity: 1;
 }
 
@@ -435,7 +434,7 @@ ul {
 #footer {
 	height: 6em;
 	text-align: center;
-	background-color: #d4a0a0;
+	background-color: #F0F0F0;
 }
 
 #social-container * {
